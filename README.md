@@ -8,6 +8,6 @@
 
 ### 致谢
 
-感谢`Xpoet`开发的[PicX图床](https://picx.xpoet.cn/#/upload)
+感谢`Xpoet`开发的[ PicX 图床](https://picx.xpoet.cn/#/upload)
 
 Github代码地址：[PicX](https://github.com/XPoet/picx)
