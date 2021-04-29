@@ -1,8 +1,8 @@
-## dalangblog.github.io 
+# 介绍
 
 这里是我博客的图片仓库
 
-[我的博客](https://dalangblog.github.io)
+点击进入[我的博客](https://dalangblog.github.io)
 
 ------
 
