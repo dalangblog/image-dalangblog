@@ -1,2 +1,2 @@
-# image-dalangblog
-## dalangblog.github.io 的图片仓库
+## dalangblog.github.io 
+的图片仓库
